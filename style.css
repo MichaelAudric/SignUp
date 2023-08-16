@@ -40,3 +40,7 @@ form{
 .input{
     display: flex;
 }
+
+.col1, .col2{
+    width: 50%;
+}
