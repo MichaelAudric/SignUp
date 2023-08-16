@@ -38,7 +38,8 @@ p{
     padding-bottom: 1.3vw;
     padding-top: 0.1vw;
     color:darkslategray;
-    box-shadow: 5px 3px grey;
+    border-top: 5px solid green;
+    border-bottom: 5px solid green;
 }
 
 .input{
