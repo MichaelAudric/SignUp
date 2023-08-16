@@ -23,10 +23,10 @@ img{
     flex: 2;    
     background-color:lightgreen;
     color: green;
+    font-weight: bold;
 }
 
 p{
-    font-weight: bold;
     font-size: 1.25vw;
     width: 60vw;
     margin: 6vh 0;
@@ -78,14 +78,18 @@ button{
     margin: 2vw 3vw;
     background-color: green;
     font-size: 1vw;
-    font-weight: bold;
     color: white;
     padding: 1vw 3vw;
     border-radius: 1vw;
+    font-weight: bold;
 }
 
 button:hover{
     cursor: pointer;
     font-size: 1.2vw;
     box-shadow: 3px 3px black;
+}
+
+span{
+    margin-left: 3vw;
 }
