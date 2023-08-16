@@ -65,7 +65,8 @@ label{
     font-size: 0.8vw;
 }
 
-input:focus{
+input:focus, input:hover{
+    font-size: 1.2vw;
     border: 2px solid green;
     box-shadow: 2px 2px green;
 }
@@ -90,7 +91,7 @@ button:hover{
     box-shadow: 3px 3px black;
     background-color: white;
     color: green;
-    border-color:white;
+    border-color:white; 
 }
 
 span{
@@ -107,4 +108,5 @@ a{
 a:hover{
     color: white;
     font-size: 1.2vw;
+    text-shadow: 2px 2px black;
 }
