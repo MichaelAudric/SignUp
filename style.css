@@ -31,3 +31,7 @@ p{
     margin: 6vh 0;
     line-height: 1.6vw;
 }
+
+form{
+    background-color: white;
+}
