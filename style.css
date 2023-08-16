@@ -50,3 +50,7 @@ form{
 input{
     margin-bottom: 1vw;
 }
+
+label{
+    font-size: 0.8vw;
+}
