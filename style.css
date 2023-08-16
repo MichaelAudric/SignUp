@@ -22,6 +22,7 @@ img{
 #signup{
     flex: 2;    
     background-color:lightgreen;
+    color: green;
 }
 
 p{
