@@ -65,3 +65,7 @@ label{
 input:focus{
     border: 2px solid green;
 }
+
+h2{
+    margin-bottom: 2vw;
+}
