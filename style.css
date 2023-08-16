@@ -59,3 +59,7 @@ input{
 label{
     font-size: 0.8vw;
 }
+
+input:enabled{
+    border: 1px solid grey;
+}
