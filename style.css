@@ -69,3 +69,13 @@ input:focus{
 h2{
     margin-bottom: 2vw;
 }
+
+button{
+    margin: 2vw 3vw;
+    background-color: green;
+    font-size: 1vw;
+    font-weight: bold;
+    color: white;
+    padding: 1vw 3vw;
+    border-radius: 1vw;
+}
