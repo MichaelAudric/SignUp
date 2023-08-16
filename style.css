@@ -1,4 +1,20 @@
 .container1{
     display: flex;
+    height: 100vh;
+    width: 100vw;
 }
 
+/* img{
+    height:100vh;
+    width:max-content;
+}
+
+
+#image{
+    flex: 1;
+}
+
+#signup{
+    flex: 2;    
+    border: 1px solid black;
+} */
