@@ -54,12 +54,9 @@ input{
     font-size: 1vw;
     padding: 0.2vw;
     border-radius: 0.5vw;
+    border: 1px solid grey;
 }
 
 label{
     font-size: 0.8vw;
-}
-
-input:enabled{
-    border: 1px solid grey;
 }
