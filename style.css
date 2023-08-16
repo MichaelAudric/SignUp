@@ -64,6 +64,7 @@ label{
 
 input:focus{
     border: 2px solid green;
+    box-shadow: 2px 2px green;
 }
 
 h2{
