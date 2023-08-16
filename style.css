@@ -10,11 +10,10 @@ img{
 }
 
 
-/* #image{
+#image{
     flex: 1;
 }
 
 #signup{
     flex: 2;    
-    border: 1px solid black;
-} */
+}
