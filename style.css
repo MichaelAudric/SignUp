@@ -55,8 +55,13 @@ input{
     padding: 0.2vw;
     border-radius: 0.5vw;
     border: 1px solid grey;
+    outline: none;
 }
 
 label{
     font-size: 0.8vw;
+}
+
+input:focus{
+    border: 2px solid green;
 }
