@@ -46,3 +46,7 @@ form{
 .col1, .col2{
     width: 50%;
 }
+
+input{
+    margin-bottom: 1vw;
+}
